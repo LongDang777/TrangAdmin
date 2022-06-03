@@ -1,4 +1,5 @@
-deploy: LongDangAdministrator.surge.sh
+deploy:
+https://longdangadministrator.surge.sh/
 
 # Getting Started with Create React App
 
